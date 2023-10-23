@@ -2,7 +2,7 @@
     "$metadata": {
         "type": "ComiteTeam",
         "uris": {
-            "jsonLdContext": "https://raw.githubusercontent.com/sandragcarrillo/schema/main/ComiteTeam.jsonld"
+            "jsonLdContext": "https://raw.githubusercontent.com/sandragcarrillo/schema/main/ComiteTeam.jsonld",
             "jsonSchema": "https://raw.githubusercontent.com/sandragcarrillo/schema/main/ComiteTeam.json"
         },
         "version": "1.0"
