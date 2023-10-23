@@ -1,0 +1,31 @@
+{
+    "@context": [
+        {
+            "@protected": true,
+            "@version": 1.1,
+            "id": "@id",
+            "type": "@type",
+            "ComiteTeam": {
+                "@context": {
+                    "@propagate": true,
+                    "@protected": true,
+                    "polygon-vocab": "urn:uuid:74480cec-5de3-4ad7-a046-ddc09e99c0df#",
+                    "xsd": "http://www.w3.org/2001/XMLSchema#",
+                    "DAOName": {
+                        "@id": "polygon-vocab:DAOName",
+                        "@type": "xsd:string"
+                    },
+                    "MemberName": {
+                        "@id": "polygon-vocab:MemberName",
+                        "@type": "xsd:string"
+                    },
+                    "Role": {
+                        "@id": "polygon-vocab:Role",
+                        "@type": "xsd:string"
+                    }
+                },
+                "@id": "urn:uuid:4024fd2c-66ee-40be-836c-40fe5d6ef8aa"
+            }
+        }
+    ]
+}
