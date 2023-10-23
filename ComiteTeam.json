@@ -2,8 +2,8 @@
     "$metadata": {
         "type": "ComiteTeam",
         "uris": {
-            "jsonLdContext": "ipfs://QmU4qvx2v2rB6eJH9axqLfXbUiXpdmZ7hNxFumNN2oS7kP"
-            "jsonSchema": "https://raw.githubusercontent.com/sandragcarrillo/schema/main/daoCoreTeam.json"
+            "jsonLdContext": "https://raw.githubusercontent.com/sandragcarrillo/schema/main/ComiteTeam.jsonld"
+            "jsonSchema": "https://raw.githubusercontent.com/sandragcarrillo/schema/main/ComiteTeam.json"
         },
         "version": "1.0"
     },
