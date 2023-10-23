@@ -2,7 +2,8 @@
     "$metadata": {
         "type": "daoCoreTeamMembership",
         "uris": {
-            "jsonLdContext": "ipfs://QmTJpxZeC3e4REGzmMbCtb1KLzs5AXqc1R9S9ctZX2fhYt"
+            "jsonLdContext": "https://raw.githubusercontent.com/sandragcarrillo/schema/main/daoCoreTeam.jsonld"
+            "jsonSchema": "https://raw.githubusercontent.com/sandragcarrillo/schema/main/daoCoreTeam.json"
         },
         "version": "1.0"
     },
