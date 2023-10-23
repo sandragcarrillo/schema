@@ -1,0 +1,27 @@
+{
+    "@context": [
+        {
+            "@protected": true,
+            "@version": 1.1,
+            "id": "@id",
+            "type": "@type",
+            "daoCoreTeamMembership": {
+                "@context": {
+                    "@propagate": true,
+                    "@protected": true,
+                    "polygon-vocab": "urn:uuid:271919f6-a43a-4fc7-8d0f-479f867c4182#",
+                    "xsd": "http://www.w3.org/2001/XMLSchema#",
+                    "Membership": {
+                        "@id": "polygon-vocab:Membership",
+                        "@type": "xsd:boolean"
+                    },
+                    "PasswordDAO": {
+                        "@id": "polygon-vocab:PasswordDAO",
+                        "@type": "xsd:string"
+                    }
+                },
+                "@id": "urn:uuid:612bf3d5-b0cf-4135-91b0-d210999d88de"
+            }
+        }
+    ]
+}
