@@ -3,8 +3,9 @@
         "type": "MembershipCredential",
         "uris": {
             "jsonLdContext": "https://raw.githubusercontent.com/sandragcarrillo/schema/main/DAOMembership.jsonld"
+            "jsonSchema": "https://raw.githubusercontent.com/sandragcarrillo/schema/main/DAOMembership.json"
         },
-        "version": "2.0"
+        "version": "3.0"
     },
     "$schema": "https://json-schema.org/draft/2020-12/schema",
     "description": "Prove that you are part of a DAO",
