@@ -1,0 +1,27 @@
+{
+    "@context": [
+        {
+            "@protected": true,
+            "@version": 1.1,
+            "id": "@id",
+            "type": "@type",
+            "MembershipCredential": {
+                "@context": {
+                    "@propagate": true,
+                    "@protected": true,
+                    "polygon-vocab": "urn:uuid:876d3e69-c1e3-4457-b2e4-1dd1f61288e6#",
+                    "xsd": "http://www.w3.org/2001/XMLSchema#",
+                    "NameOfDAO": {
+                        "@id": "polygon-vocab:NameOfDAO",
+                        "@type": "xsd:string"
+                    },
+                    "PartOfTheDAO": {
+                        "@id": "polygon-vocab:PartOfTheDAO",
+                        "@type": "xsd:integer"
+                    }
+                },
+                "@id": "urn:uuid:321b1371-b979-4111-9a82-7d894721b395"
+            }
+        }
+    ]
+}
