@@ -2,7 +2,7 @@
     "$metadata": {
         "type": "MembershipCredential",
         "uris": {
-            "jsonLdContext": "ipfs://QmV2B1xLRUZfb2zLUg4xM3tVYJgUg1R9E7jGz6Hf6em2Ui"
+            "jsonLdContext": "https://raw.githubusercontent.com/sandragcarrillo/schema/main/DAOMembership.jsonld"
         },
         "version": "2.0"
     },
