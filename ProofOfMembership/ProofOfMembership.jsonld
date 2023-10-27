@@ -12,7 +12,7 @@
                     "vocab": "https://github.com/sandragcarrillo/schema/blob/main/ProofOfMembership/ProofOfMembership-vocab.md",
                     "xsd": "http://www.w3.org/2001/XMLSchema#",
                     "DAOName": {
-                        "@id": "polygon-vocab:DAOName",
+                        "@id": "vocab:DAOName",
                         "@type": "xsd:string"
                     },
                     "Role": {
