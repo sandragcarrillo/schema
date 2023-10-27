@@ -7,7 +7,6 @@
             "type": "@type",
             "ProofOfMembership": {
                 "@context": {
-                    "@id": "https://raw.githubusercontent.com/sandragcarrillo/schema/main/ProofOfMembership/ProofOfMembership.jsonld#ProofOfMembership",
                     "@propagate": true,
                     "@protected": true,
                     "vocab": "https://github.com/sandragcarrillo/schema/blob/main/ProofOfMembership/ProofOfMembership-vocab.md",
@@ -20,7 +19,8 @@
                         "@id": "vocab:Role",
                         "@type": "xsd:integer"
                     }
-                }
+                },
+                "@id": "https://raw.githubusercontent.com/sandragcarrillo/schema/main/ProofOfMembership/ProofOfMembership.jsonld#ProofOfMembership"
             }
         }
     ]
