@@ -19,7 +19,7 @@
                         "@id": "vocab:PartOfTheDAO",
                         "@type": "xsd:integer"
                     }
-                },
+                }
             }
         }
     ]
