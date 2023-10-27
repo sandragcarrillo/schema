@@ -1,6 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-07/schema#",
-    "type": "DAOMembership",
+    "title": "DAOMembership", 
+    "type": "object",
     "$metadata": {
         "uris": {
             "jsonLdContext": "https://raw.githubusercontent.com/sandragcarrillo/schema/main/DAOMembership.jsonld",
