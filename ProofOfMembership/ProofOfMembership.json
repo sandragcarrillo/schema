@@ -1,6 +1,6 @@
 {
     "$metadata": {
-        "type": "object",
+        "type": "ProofOfMembership",
         "uris": {
             "jsonLdContext": "https://raw.githubusercontent.com/sandragcarrillo/schema/main/ProofOfMembership/ProofOfMembership.json",
             "jsonSchema": "https://raw.githubusercontent.com/sandragcarrillo/schema/main/ProofOfMembership/ProofOfMembership.json"
