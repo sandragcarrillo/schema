@@ -1,0 +1,27 @@
+{
+    "@context": [
+        {
+            "@protected": true,
+            "@version": 1.1,
+            "id": "@id",
+            "type": "@type",
+            "ProofOfMembership": {
+                "@context": {
+                    "@propagate": true,
+                    "@protected": true,
+                    "polygon-vocab": "urn:uuid:f0a207c4-f73a-411b-848d-6ffb301e6b6f#",
+                    "xsd": "http://www.w3.org/2001/XMLSchema#",
+                    "DAOName": {
+                        "@id": "polygon-vocab:DAOName",
+                        "@type": "xsd:string"
+                    },
+                    "Role": {
+                        "@id": "polygon-vocab:Role",
+                        "@type": "xsd:integer"
+                    }
+                },
+                "@id": "urn:uuid:21bc8a95-3b06-494b-b814-de3f4c2afa22"
+            }
+        }
+    ]
+}
