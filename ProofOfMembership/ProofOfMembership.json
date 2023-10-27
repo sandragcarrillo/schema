@@ -2,7 +2,7 @@
     "$metadata": {
         "type": "ProofOfMembership",
         "uris": {
-            "jsonLdContext": "https://raw.githubusercontent.com/sandragcarrillo/schema/main/ProofOfMembership/ProofOfMembership.json",
+            "jsonLdContext": "https://raw.githubusercontent.com/sandragcarrillo/schema/main/ProofOfMembership/ProofOfMembership.jsonld",
             "jsonSchema": "https://raw.githubusercontent.com/sandragcarrillo/schema/main/ProofOfMembership/ProofOfMembership.json"
         },
         "version": "1.0"
