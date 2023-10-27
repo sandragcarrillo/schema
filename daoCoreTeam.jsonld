@@ -20,7 +20,7 @@
                         "@type": "xsd:string"
                     }
                 },
-                "@id": "urn:uuid:612bf3d5-b0cf-4135-91b0-d210999d88de"
+                "@id": "https://raw.githubusercontent.com/sandragcarrillo/schema/main/daoCoreTeam.jsonld"
             }
         }
     ]
