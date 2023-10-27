@@ -1,6 +1,6 @@
 {
     "$metadata": {
-        "type": "MembershipCredential",
+        "type": "object",
         "uris": {
             "jsonLdContext": "https://raw.githubusercontent.com/sandragcarrillo/schema/main/DAOMembership.jsonld",
             "jsonSchema": "https://raw.githubusercontent.com/sandragcarrillo/schema/main/DAOMembership.json"
