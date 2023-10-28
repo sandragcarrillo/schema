@@ -1,0 +1,37 @@
+{
+    "@context": [
+      {
+        "@version": 1.1,
+        "@protected": true,
+        "id": "@id",
+        "type": "@type",
+        "GuildCredential": {
+          "@id": "https://raw.githubusercontent.com/sandragcarrillo/schema/main/role.json-ld#GuildCredential",
+          "@context": {
+            "vocab": "https://github.com/sandragcarrillo/schema/blob/main/role.md#",
+            "xsd": "http://www.w3.org/2001/XMLSchema#",
+            "joinDate": {
+              "@id": "vocab:joinDate",
+              "@type": "xsd:dateTime"
+            },
+            "guildName": {
+              "@id": "vocab:guildName",
+              "@type": "xsd:string"
+            },
+            "guildId": {
+              "@id": "vocab:guildId",
+              "@type": "xsd:integer"
+            },
+            "roleName": {
+              "@id": "vocab:roleName",
+              "@type": "xsd:string"
+            },
+            "roleId": {
+              "@id": "vocab:roleId",
+              "@type": "xsd:integer"
+            }
+          }
+        }
+      }
+    ]
+  }
