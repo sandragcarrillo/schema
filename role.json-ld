@@ -5,8 +5,8 @@
         "@protected": true,
         "id": "@id",
         "type": "@type",
-        "GuildCredential": {
-          "@id": "https://raw.githubusercontent.com/sandragcarrillo/schema/main/role.json-ld#GuildCredential",
+        "daoCredential": {
+          "@id": "https://raw.githubusercontent.com/sandragcarrillo/schema/main/role.json-ld#daoCredential",
           "@context": {
             "vocab": "https://github.com/sandragcarrillo/schema/blob/main/role.md#",
             "xsd": "http://www.w3.org/2001/XMLSchema#",
@@ -14,11 +14,11 @@
               "@id": "vocab:joinDate",
               "@type": "xsd:dateTime"
             },
-            "guildName": {
+            "daoName": {
               "@id": "vocab:guildName",
               "@type": "xsd:string"
             },
-            "guildId": {
+            "daoId": {
               "@id": "vocab:guildId",
               "@type": "xsd:integer"
             },
